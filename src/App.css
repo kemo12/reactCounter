@@ -1,0 +1,12 @@
+.container{
+    margin-left: 300px;
+}
+.reset{
+    background-color: #36ad56;
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
+    border:none;
+    color: #ffffff;
+    margin-top: 5px;
+}

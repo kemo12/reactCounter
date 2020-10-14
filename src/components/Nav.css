@@ -1,0 +1,20 @@
+.nav{
+    background-color: #f7f5f5;
+    height: 50px;
+    display: flex;
+}
+.shop-icon{
+   margin: 15px 5px 0px 15px;
+   font-size: 19px;
+}
+.count{
+    width: 30px;
+    height: 20px;
+    background-color: #4193ff;
+    border-radius: 10px;
+    margin-top: 15px;
+    padding-left: 16px;
+}
+#items-word{
+    margin-left: 8px;
+}
